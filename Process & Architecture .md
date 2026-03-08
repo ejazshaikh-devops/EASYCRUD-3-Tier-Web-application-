@@ -63,6 +63,7 @@ Request Flow :
 
 Process of Deployment : (Ec2 instance Ubuntu)
 before this enable port : 8080 (for backend) 3306 (for Database)
+
 Backend :
 1. system update
 3. install jdk,maven
