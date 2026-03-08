@@ -79,7 +79,7 @@ ls target copy .jar line
 Run this command java jar target/(paste the line here) this will start the backend and DB get connected with each other now keep in runnig leave tab open
 
 Frontend :
-enable port 5173 (for frontend) if usng host 
+enable port 5173 (for frontend) if using host 
 1. install nodejs -npm 
 2. instakk npm 
 3. In frontend .env file is presend 
